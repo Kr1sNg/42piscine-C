@@ -153,7 +153,9 @@ You should be able to use both VSCode and Vim in the exam.
 <br>
 
 ## Exam Practice Tool
-[Link To The Tool](https://github.com/JCluzet/42_EXAM)
+[42_EXAM](https://github.com/JCluzet/42_EXAM)
+
+<br>
 
 ## Credit
-🙇🏻‍♂️ Thanks to the source from [source](https://github.com/pasqualerossi/42-School-Exam-Rank-02)
+🙇🏻‍♂️ Thanks to the source from [pasqualerossi](https://github.com/pasqualerossi/42-School-Exam-Rank-02)
